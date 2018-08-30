@@ -1,1 +1,0 @@
-en este documento se intenta generar un ejercicio de push y pull.
